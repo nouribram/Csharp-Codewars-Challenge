@@ -5,7 +5,7 @@
 // Given an array (or list) of numbers, return the sum of all elements 
 // except the highest and lowest values (by value, not by index).
 
-// Example 1:
+// Example:
 // Input: [6, 2, 1, 8, 10]
 // Sorted → [1, 2, 6, 8, 10]
 // Remove lowest (1) and highest (10)
