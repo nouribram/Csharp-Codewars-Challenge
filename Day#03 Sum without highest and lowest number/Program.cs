@@ -2,7 +2,7 @@
 // Problem: Sum Without Highest and Lowest Number
 // -----------------------------------------------------------------------------
 // Task:
-// Given an array (or list) of numbers, return the sum of all elements 
+// Given an array of numbers, return the sum of all elements 
 // except the highest and lowest values (by value, not by index).
 
 // Example:
