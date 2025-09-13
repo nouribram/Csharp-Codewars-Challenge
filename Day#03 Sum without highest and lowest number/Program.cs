@@ -54,7 +54,9 @@ public class Program
 
     public static void Main(string[] args)
     {
-        // Example test cases      
+        
+        // Example test cases  
+        
         Console.WriteLine(SumWithoutHighestAndLowest(new int[] { 5, 5 }));            // Expected: 0
         Console.WriteLine(SumWithoutHighestAndLowest(new int[] { 10, 10, 10 }));      // Expected: 10
     }
